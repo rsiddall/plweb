@@ -505,6 +505,7 @@ menu(Style,
 	 [ 'Modules'           = 'http://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/tutorials/swiplmodtut.html',
 	   'Grammars (DCGs)'   = 'https://www.github.com/Anniepoo/swipldcgtut/blob/master/dcgcourse.adoc',
 	   'clp(fd)'	       = 'https://www.github.com/Anniepoo/swiplclpfd/blob/master/clpfd.adoc',
+	   'Constraint Handling Rules (CHR)' = 'https://www.github.com/Anniepoo/swiplchrtut/blob/master/index.adoc',
 	   'Printing messages' = 'https://www.github.com/Anniepoo/swiplmessage/blob/master/message.adoc',
 	   'PlDoc'             = 'http://chiselapp.com/user/ttmrichter/repository/swipldoctut/doc/tip/doc/tutorial.html'
 	 ],
